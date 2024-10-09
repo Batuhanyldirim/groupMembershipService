@@ -1,6 +1,5 @@
 # Groupy: A Group Membership Service
 
-![Groupy Logo](./images/logo.png)
 
 ## Overview
 
